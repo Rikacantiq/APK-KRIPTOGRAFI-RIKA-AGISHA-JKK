@@ -1,2 +1,2 @@
-# APK-KRIPTOGRAFI-RIKA-AGISHA-JKK
-Untuk memenuhi Tugas dan UAS JKK
+# UAS-JARKOM
+Untuk UAS Jaringan Komputer dan Kaeamanan 
